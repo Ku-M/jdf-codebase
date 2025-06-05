@@ -1,0 +1,6 @@
+package fe.cmn.widget;
+
+public enum CLabelAlign {
+    LEFT,CENTER,RIGHT, 
+    LEFT_TOP, LEFT_CENTER, LEFT_BOTTOM, RIGHT_TOP, RIGHT_CENTER, RIGHT_BOTTOM, BOTTOM_CENTER, TOP_CENTER
+}
